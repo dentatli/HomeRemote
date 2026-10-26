@@ -1,0 +1,7 @@
+{
+  "ServerHost": "vpn.example.invalid",
+  "ServerPort": 443,
+  "ServerCertificateName": "HomeRemote-Server",
+  "RustDeskAddress": "192.0.2.1",
+  "RustDeskPort": 21118
+}
